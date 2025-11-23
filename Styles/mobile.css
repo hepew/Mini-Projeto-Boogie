@@ -1,0 +1,167 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 700px;
+ 
+}
+body{
+    margin: auto;
+    background: url('../Fundo/fundosimpsons.jpg') center center no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    display: flex;
+    background-color: #ffffff;
+    padding: 10px;
+    padding-left: 10px;
+    justify-content: space-between;
+}
+header h1{
+    font-size: 1.4em;
+font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+header > span.material-symbols-outlined{
+    padding-right: 10px;
+    padding-top: 5px;
+    font-size: 1.8em;
+}
+header > span.material-symbols-outlined:hover{
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+div.inicio > img{
+
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+
+main.conteudo {
+    border-radius: 3px;
+    box-shadow: 2px 2px 2px rgba(24, 24, 24, 0.226);
+    margin: auto;
+    background-color: #E5E3DC;
+    font-size: 0.8em;
+    padding: 15px;
+    margin: 0px 10px;
+    margin-top: 20px;
+    font-weight: lighter;
+}
+
+main.conteudo > h1{
+    padding-bottom: 10px;
+    font-size: 1.3em;
+    margin-top: 10px;
+    margin-left: 20px;
+    padding: 2px;
+}
+main.conteudo > p{
+    text-indent: 20px;
+    font-size: 0.9em;
+    margin: 0px 30px;
+}
+main > div.i1{
+    text-indent: 20px;
+    margin: 0px 30px;
+    font-size: 0.9em;
+
+}
+
+main > h2{
+    padding-top: 4px;
+    font-size: 1.3em;
+    margin-top: 10px;
+    margin-left: 20px;
+    padding: 2px;
+}
+main > hr{
+    margin: 0px 20px;
+    margin-bottom: 10px;
+}
+section.transparente{
+    margin: auto;
+    margin: 0px 10px;
+    padding: 5px;
+    background-color: rgba(245, 245, 220, 0.295);
+    backdrop-filter: blur(5px);
+    padding-bottom: 20px;
+}
+
+div.capitulo1{
+        background-color: white;
+        text-align: center;
+        margin: 0px 10px;
+        font-size: 1em;
+        border: 1.3px solid black;
+        margin: 10px;
+        padding: 3px;
+        margin: 20px 150px;
+        border-radius: 25px;
+}
+
+main.tabelas{
+    margin: auto;
+font-size: 0.85em;
+}
+
+table{ 
+        margin: auto;
+        border-collapse:collapse;
+        width: 400px;
+        text-align: center;
+}
+th{
+    
+    background-color: #0C1540;
+    color: white;
+    padding: 20px;
+  
+    
+    }
+td{
+    background-color: #E5E3DC;
+    border: 1px solid #c9c8c4;
+        height: 40px;
+        padding: 10px;
+}
+
+img{
+    
+    height: 70px;
+    width: 70px;
+    display: block;
+    margin-left: 25px;
+    margin-bottom: 5px;
+}
+
+td > p{
+    padding: 2px;
+    font-size: 0.63em;
+    text-align: center;
+}
+
+td > h2{
+    font-size: 0.8em;
+    font-weight: lighter;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+footer{
+    background-color: #280033;
+}

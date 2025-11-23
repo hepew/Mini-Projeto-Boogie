@@ -1,0 +1,125 @@
+Boogie Woogie 
+Tabela com os dados do fortnite cap1; recursos; itens; datas.
+Tudo bem ajustado e configurado com flexbox e grid leyout.
+
+Dados 
+--> 
+Fortnite surgiu de uma forma bastante orgânica, quase experimental: ele nasceu dentro da Epic Games, a partir de uma game jam interna após o fim do desenvolvimento de Gears of War 3. A proposta inicial era misturar a construção de mundos — algo lembrando games como Minecraft ou Terraria — com mecânicas de tiro e sobrevivência, resultando numa experiência onde os jogadores exploram, coletam recursos, constroem defesas e enfrentam hordas de inimigos.
+
+Em 2011, apenas três semanas após a ideia ter surgido, a Epic já havia apresentado um trailer no Spike Video Game Awards — muito antes de realmente ter um jogo pronto. Na época, a Epic desejava inovar: sair do ciclo de jogos mais tradicionais como Gears of War e construir algo divertido, mas diferente.
+
+O desenvolvimento, no entanto, encontrou obstáculos. A Epic fez uma transição da Unreal Engine 3 para a Unreal Engine 4, alterou o estilo artístico para algo mais cartunesco e mais leve, e redefiniu o modelo de negócio para apostar no “games-as-a-service” (jogos como serviço), buscando uma proposta sustentável a longo prazo. Para apoiar esse modelo, a Epic contou com a parceria da Tencent, que adquiriu uma participação significativa na empresa. Também houve mudanças em sua equipe: figuras como Cliff Bleszinski deixaram a empresa, e o foco foi direcionado para a construção de uma plataforma que pudesse evoluir constantemente.
+
+Originalmente batizado de Fortnite: Save the World, o jogo foi lançado em acesso antecipado em julho de 2017 — como um título pago, onde times de até quatro jogadores construíam bases para defender-se de criaturas controladas por inteligência artificial. Porém, inspirado pelo enorme sucesso do gênero battle royale (em especial por jogos como PUBG), a Epic acelerou o desenvolvimento de um modo “Battle Royale” baseado nos mesmos ativos de Save the World. Esse modo, lançado em setembro de 2017, era gratuito (free-to-play), o que tornou o Fortnite acessível para uma base massiva de jogadores.
+
+A estratégia se revelou decisiva: o Fortnite Battle Royale explodiu em popularidade, graças à sua jogabilidade única — combinando construção, tiro e sobrevivência — e à sua estética vibrante. Ao passo que esse novo modo atraía milhões, o Save the World permaneceu, mas nunca alcançou o mesmo patamar de engajamento.
+
+Com o sucesso estrondoso, a Epic evoluiu ainda mais o jogo: introduziu o modo Creative, que permite aos jogadores criar seus próprios mundos, mini-jogos e experiências. Mais recentemente, em 2023, a empresa lançou o Unreal Editor for Fortnite (UEFN), possibilitando que a comunidade use o poder da Unreal Engine diretamente no universo do Fortnite para desenvolver modos e conteúdos cada vez mais criativos.
+
+Assim, o Fortnite se transformou: de uma ideia simples nascida numa jam interna para um fenômeno global de jogos, cultura pop e criatividade.
+
+#DE69F0
+#69F0C9
+#EDC75C
+
+---
+#BA7CF2
+#D74CF0
+#F261C3
+#9780F2
+#F2949B
+
+:root{
+    --color1:;
+    --color2:;
+    --color3:;
+
+    --font1:;
+    --font2:;
+}
+
+
+     <td rowspan="8" style="font-weight: bold;">Capítulo 2</td>
+                <td>Season 1</td>
+                <td>15 out 2019</td>
+                <td>20 fev 2020</td>
+            </tr>
+            <tr>
+                <td>Season 2</td>
+                <td>20 fev 2020</td>
+                <td>17 jun 2020</td>
+            </tr>
+            <tr>
+                <td>Season 3</td>
+                <td>17 jun 2020</td>
+                <td>27 ago 2020</td>
+            </tr>
+            <tr>
+                <td>Season 4</td>
+                <td>27 ago 2020</td>
+                <td>1 dez 2020</td>
+            </tr>
+            <tr>
+                <td>Season 5</td>
+                <td>2 dez 2020</td>
+                <td>15 mar 2021</td>
+            </tr>
+            <tr>
+                <td>Season 6</td>
+                <td>16 mar 2021</td>
+                <td>8 jun 2021</td>
+            </tr>
+            <tr>
+                <td>Season 7</td>
+                <td>8 jun 2021</td>
+                <td>12 set 2021</td>
+            </tr>
+            <tr>
+                <td>Season 8</td>
+                <td>13 set 2021</td>
+                <td>4 dez 2021</td>
+            </tr>
+
+            <tr>
+                 <td rowspan="4" style="font-weight: bold;">Capítulo 3</td>
+                <td>Season 1</td>
+                <td>5 dez 2021</td>
+                <td>16 mar 2022</td>
+            </tr>
+            <tr>
+                <td>Season 2</td>
+                <td>20 mar 2022</td>
+                <td>3 jun 2022</td>
+            </tr>
+            <tr>
+                <td>Season 3</td>
+                <td>4 jun 2022</td>
+                <td>27 set 2022</td>
+            </tr>
+            <tr>
+                <td>Season 4</td>
+                <td>18 set 2022</td>
+                <td>3 dez 2022</td>
+            </tr>
+
+                   <tr>
+                 <td rowspan="4" style="font-weight: bold;">Capítulo 4</td>
+                <td>Season 1</td>
+                <td>4 dez 2022</td>
+                <td>10 mar 2023</td>
+            </tr>
+            <tr>
+                <td>Season 2</td>
+                <td>10 mar 2023</td>
+                <td>9 jun 2023</td>
+            </tr>
+            <tr>
+                <td>Season 3</td>
+                <td>9 jun 2023</td>
+                <td>25 ago 2023</td>
+            </tr>
+            <tr>
+                <td>Season 4</td>
+                <td>25 ago 2023</td>
+                <td>3 nov 2023</td>
+            </tr>
